@@ -118,8 +118,8 @@ for (int i = 0; i < arr.length; i++) {
 5. Find frequency of each element.
 
 ### Day 5
-1. Find common elements in two arrays.
-2. Find duplicates in an array.
+1. Find common elements in two arrays. Done
+2. Find duplicates in an array. 
 3. Find unique elements from an array.
 4. Sort an array using bubble sort.
 5. Sort an array using selection sort.
